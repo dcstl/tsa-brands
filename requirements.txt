@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+sklearn
+matplotlib
+seaborn
+datetime
+IPython
+ipywidgets
+yfinance
+voila
